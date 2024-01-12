@@ -6,3 +6,6 @@ def subtract(a,b):
 
 def divide(a, b):
     return a/b
+
+def getSum_ver1(n):
+    return n(n+1)/2
